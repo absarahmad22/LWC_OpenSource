@@ -4,7 +4,7 @@
     "bugs": "https://github.com//my-app/issues",
     "dependencies": {
         "bulma": "^0.7.5",
-        "lwc-services": "^1.2.0"
+        "lwc-services": "^3.2.2"
     },
     "devDependencies": {
         "husky": "^2.4.0",
